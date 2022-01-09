@@ -1,4 +1,4 @@
-node() {
+node('shwet') {
    def mvnHome
    stage('Preparation') { 
       
